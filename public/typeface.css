@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Georgia Pro';
+  src: url('/fonts/GeorgiaPro-SemiBold.woff') format('woff');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Verdana';
+  src: url('/fonts/VerdanaPro-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Verdana';
+  src: url('/fonts/VerdanaPro-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('/fonts/Lato-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Georgia Pro';
+  font-weight: 700;
+  font-size: 3rem;
+  color: #425369;
+}
+
+h2 {
+  font-family: 'Verdana';
+  font-weight: 700;
+  color: #425369;
+}
+
+h3 {
+  font-family: 'Verdana';
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #425369;
+}
+
+li {
+  font-family: 'Verdana';
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+p {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 1.1rem;
+  word-spacing: .1rem;
+  line-height: 1.2rem;
+  letter-spacing: .01rem;
+  ;
+}
+
+a {
+  color: #e0f4f7;
+}
+
+footer a {
+  color: #151618;
+}

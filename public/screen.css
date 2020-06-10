@@ -9,4 +9,100 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: #008aa0;
+  display: flex;
+  justify-content: center;
+}
+
+.body-parent {
+  width: 66.5vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ddf2f3;
+}
+
+nav {
+  width: 100%;
+  background-color: #02bfd5;
+  margin-bottom: 0;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  padding: 7px;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0 10px;
+}
+
+.body-child {
+  display: flex;
+  background-color: #ddf2f3;
+  align-items: center;
+  /* border: 1px solid red; */
+  align-items: flex-start;
+}
+
+aside {
+  border: 1px #67b0bf solid;
+  margin: 18px 30px;
+}
+
+figure {
+  margin: 5px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-left: 5px;
+}
+
+aside li {
+  list-style: disc;
+  margin-left: 40px;
+  margin-bottom: 3px;
+}
+
+aside ul {
+  margin-bottom: 25px;
+}
+
+figure img {
+  height: 200px;
+  width: 200px;
+}
+
+article {
+  /* border: 1px red solid; */
+  padding: 0;
+  margin: 40px 40px 0px 10px;
+}
+
+h2 {
+  margin: 0;
+}
+
+footer {
+  width: 100%;
+}
+
+footer nav {
+  background-color: #d3d3d3;
+  padding: 8px 0px;
 }
