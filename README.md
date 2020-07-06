@@ -22,11 +22,6 @@ simplify our HTML and CSS.
 - [x] Recreate the page 'The Daily Kitteh' using flexbox and grids as closely as you possibly can. Use similar fonts, sizes, and colors. Feel free to use any cat photo you wish, just respect the relative size of the photo.
   - ![daily kitteh](https://raw.githubusercontent.com/suncoast-devs/handbook/a2f0c05d3914a8f16611da03a18dbe92cd821a92/curriculum/fundamentals/modules/html-css/lessons/css-layout/assignments/assets/daily-kitteh.png)
 
-## Adventure Mode
-
-- [x] Recreate the page `Flexbox Article Layout` as closely as possible. Feel free to use flexbox, or grids, or both if needed. Here [a link to the HTML](https://gist.github.com/gstark/67f00631b3efe6145d34f9bfdf082637)
-      ![flexbox article layout](https://raw.githubusercontent.com/suncoast-devs/handbook/a2f0c05d3914a8f16611da03a18dbe92cd821a92/curriculum/fundamentals/modules/html-css/lessons/css-layout/assignments/assets/flexbox-article-layout.png)
-
 ## Additional Resources
 
 - CSS-Tricks guide to
